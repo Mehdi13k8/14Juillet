@@ -1,0 +1,52 @@
+.game {
+    display: grid;
+    grid-gap: 10px;
+    // max-height: 5vh;
+    // max-width: 6vw;
+
+    img {
+        height: 4vh;
+        width: 5vw;
+    }
+}
+
+// .game-square {
+//     background: #333 !important;
+//     border-radius: 10px;
+//     cursor: pointer;
+//     transition: 0.5s;
+// }
+
+.game-square {
+    margin: 10px;
+    background-color: lightblue;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    border: 1px solid black; /* Add border style */
+    border-radius: 5px; /* Add border radius */
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.3); /* Add box shadow */
+    img {
+        height: 9vh;
+        width: 9vw;
+    }
+    height: 10vh;
+    width: 10vw;
+}
+
+// if not finished and not matched, then background is blue
+.game-square:not(.finished-card):not(.matched) {
+    // background: #333;
+}
+
+.no-match {
+    background: red !important;
+    cursor: default;
+}
+
+.matched {
+    background: lightgreen !important;
+    cursor: default;
+}

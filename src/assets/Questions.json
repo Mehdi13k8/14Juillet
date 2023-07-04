@@ -1,0 +1,54 @@
+{
+    "questions": [
+        {
+            "SK": "Koľko áut sa denne vyrobí v trnavskom závode ?",
+            "FR": "Combien de voitures sont produites quotidiennement dans l'usine de Trnava ?",
+            "answer": 1400
+        },
+        {
+            "SK": "Uveďte 3 značky skupiny Stellantis :",
+            "FR": "Cite 3 marques du groupe stellantis",
+            "answer": ["Abarth","Alfa Romeo","Chrysler","Citroen","DS Automobiles","DS","Dodge","Fiat","Jeep","Opel","Lancia","Maserati","Peugeot","Ram Trucks","Ram","Vauxhall","Leasys"]
+        },
+        {
+            "SK": "Myslíte si, že elektromobily sa vyrábajú v Trnave ?",
+            "FR": "Pensez-vous que les voitures électriques sont fabriquées à Trnava ?",
+            "answer": "Ano"
+        },
+        {
+            "SK": "Aká veľká je trnavská automobilka (v hektároch) ?",
+            "FR": "Quelle est la superficie du site de Trnava (en hectares) ?",
+            "answer": 150
+        },
+        {
+            "SK": "Ktoré modely áut sa vyrábajú v Trnave ?",
+            "FR": "Quels modèles de voitures sont produits à Trnava ?",
+            "answer": "c3 et 208"
+        },
+        {
+            "SK": "Má trnavská automobilka baterkáreň ?",
+            "FR": "Le site de Trnava dispose-t-il d'un magasin de batteries ?",
+            "answer": "ano"
+        },
+        {
+            "SK": "Aký je dojazd elektrického modelu e-208 (km) ?",
+            "FR": "Quelle est l'autonomie électrique du e-208 ?",
+            "answer": 340
+        },
+        {
+            "SK": "Koľko zamestnancov má trnavská automobilka ?",
+            "FR": "Combien d'employés compte l'usine de Trnava ?",
+            "answer": 3500
+        },
+        {
+            "SK": "Koľko modelov sa vyrába v trnavskom závode ?",
+            "FR": "Combien de modeles ?",
+            "answer": 2
+        },
+        {
+            "SK": "Koľko robotov je v trnavskom závode ?",
+            "FR": "Combien y a-t-il de robots dans l'usine ?",
+            "answer": 700
+        }
+    ]
+}

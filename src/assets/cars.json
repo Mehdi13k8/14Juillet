@@ -1,0 +1,47 @@
+[
+    {
+        "id" : 1,
+        "name": "Quattro 2018",
+        "color": "red",
+        "brand": "Audi",
+        "group": "Wolkswagen",
+        "isFlipped": false,
+        "image": "https://www.cnet.com/a/img/resize/f37e6416fccc4f3d099acde4c0ab96976197253e/hub/2018/07/24/07d5acb8-00d0-4a47-bbcc-1736c44948a9/audi-a4-quattro-2018-1128-2.jpg?auto=webp&width=768"
+    },
+    {
+        "id" : 2,
+        "name": "3008 2018",
+        "color": "white",
+        "brand": "Peugeot",
+        "group": "Stellantis",
+        "isFlipped": false,
+        "image": "https://images.drive.com.au/caradvice/image/private/c_fill,f_auto,g_auto,h_674,q_auto:eco,w_1200/v1/1ee4bc8b8841904c0376c99de3b02a07"
+    },
+    {
+        "id" : 3,
+        "name": "Clio 2017",
+        "color": "blue",
+        "brand": "Renault",
+        "group": "Renault",
+        "isFlipped": false,
+        "image": "https://www.largus.fr/images/styles/max_1300x1300/public/images/renault-clio-steel-2017.jpg?itok=np_B9UyP"
+    },
+    {
+        "id" : 4,
+        "name": "X5 2018",
+        "color": "grey",
+        "brand": "BMW",
+        "group": "BMW",
+        "isFlipped": false,
+        "image": "https://www.cars.com/i/large/in/v2/stock_photos/0a16f7a6-a245-4a07-9f5b-5e474103ef64/601cbd3a-3f43-41a6-a0d4-1c2c4ec8a709.png"
+    },
+    {
+        "id" : 5,
+        "name": "X5 2018",
+        "color": "grey",
+        "brand": "BMW",
+        "group": "BMW",
+        "isFlipped": false,
+        "image": "https://www.cars.com/i/large/in/v2/stock_photos/0a16f7a6-a245-4a07-9f5b-5e474103ef64/601cbd3a-3f43-41a6-a0d4-1c2c4ec8a709.png"
+    }
+]
